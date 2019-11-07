@@ -1,0 +1,33 @@
+{
+    "name": "kwanshing/magento-2.3-faqs",
+    "description":"Magento2.3 FAQ Extension",
+    "keywords": [
+    ],
+    "require": {
+        "php": "> 7.0.4",
+        "magento/module-backend": ">100.1.*",
+        "magento/framework": ">100.1.*"
+    },
+    "type": "magento2-module",
+    "version": "2.1.7.1",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "2023HK Team",
+            "email": "kwanshing@yahoo.com.hk",
+            "homepage": "https://2023hk.com/",
+            "role": "Leader"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "PHPCuong\\Faq\\": ""
+        }
+    }
+}
