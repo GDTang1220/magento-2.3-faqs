@@ -1,10 +1,3 @@
-/*
-* @Author: Ngo Quang Cuong
-* @Date:   2016-12-22 04:49:34
-* @Last Modified by:   https://www.facebook.com/giaphugroupcom
-* @Last Modified time: 2017-11-11 17:31:22
-*/
-
 require([
   'jquery'
 ], function ($) {

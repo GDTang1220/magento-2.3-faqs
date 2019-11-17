@@ -1,11 +1,5 @@
 <?php
 
-/**
- * @Author: Ngo Quang Cuong
- * @Date:   2017-11-11 13:03:25
- * @Last Modified by:   https://www.facebook.com/giaphugroupcom
- * @Last Modified time: 2017-11-11 16:59:15
- */
 
 namespace PHPCuong\Faq\Ui\Component\Listing\Column;
 
